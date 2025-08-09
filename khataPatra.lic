@@ -1,0 +1,35 @@
+{
+  "licenses": [
+    {
+      "licenseType": "Premium",
+      "user": "abhinashpandey@gmail.com",
+      "machines": [
+        "4444444444",
+        "123123123",
+        "777777"
+      ],
+      "expiryDate": "2025-08-09",
+      "features": [
+        "invenotry",
+        "finance"
+      ],
+      "platform": "Windows"
+    },
+    {
+      "licenseType": "Premium",
+      "user": "pandey@gmail.com",
+      "machines": [
+        "777777",
+        "123123123",
+        "5daa7265-a3d9-4e99-b27b-527e8cce684a"
+      ],
+      "expiryDate": "2025-08-09",
+      "features": [
+        "invenotry",
+        "finance"
+      ],
+      "platform": "Windows"
+    }
+  ],
+  "signature": "721fca679766aa7f45eb349573c41b8653f7f7ec9308c0dfacb1a659829425c05bfbe0139ae0cdfea5199563de9f70d40d8af04aaaf740783fa9d1d60f8b572249c27fd44a645cbb7967c765ed7913a4c573596dff473b846c44523160dc5c4866f69795d791dd1ac8f30f3a1737ebde0594a76a552ffb563174eb1e963e87b0cac61d8000fbf069ab23b6b40f483baff2e4f3c94ba5bf015cb337da9585cfbd6fc1a73d39780164d62126d4830962648c684a1a9aefe04292ed9d482b2963271290d356c5a89d0c90d265bd71afb55a86a06a98920e64dfbf1c1681861c5df667206f516de34cfd82d83f0eb40f4a38196346b69509a5656aef6746d8fec29e"
+}
