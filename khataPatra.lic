@@ -1,46 +1,21 @@
 {
   "licenses": [
     {
-      "licenseType": "Premium",
-      "user": "pandey@gmail.com",
-      "machines": [
-        "123123123",
-        "5daa7265-a3d9-4e99-b27b-527e8cce684a",
-        "777777"
-      ],
-      "expiryDate": "2025-08-15",
-      "features": [
-        "invenotry",
-        "finance"
-      ],
-      "platform": "Windows"
+      "payload": {
+        "licenseType": "Premium",
+        "user": "pandey@gmail.com",
+        "machines": [
+          "5daa7265-a3d9-4e99-b27b-527e8cce684a"
+        ],
+        "expiryDate": "2025-08-09",
+        "features": [
+          "finance",
+          "invenotry"
+        ],
+        "platform": "Windows"
+      },
+      "signature": "Q9jQM90VwBYfPkQ4vz2/ZgvGVgknQZHnoVHQtv3rtd77qLEElgb6QQ9lUfDwgTnrgtbkhQLjEG7UBslhOWD7XSlOCy6WRSTovn0HQGf9n2NwpacIvPhZ6kuFXXgT7erSEST/gavKYURFau1V9Nu5GfH74q0V91nukB71TefNzoB4woavH9UQ53ha6QkzqfOdtUVrmdxstpifepfCcyJfh/rm/wGhxxKfB7ibmtUZO4ez9yvuFHx/smN88S/giTbBaFfHhvhZtOlmP85rhu6+klKwrU6W38eTImh+IIdnhTIft8gXEbyZ0O+E3AwuUy2I+pWdXmbDDrbGZMsZQZeQfw=="
     },
-    {
-      "licenseType": "Premium",
-      "user": "abhinash@gmail.com",
-      "machines": [
-        "5daa7265-a3d9-4e99-b27b-527e8cce684a"
-      ],
-      "expiryDate": "2025-08-09",
-      "features": [
-        "finance",
-        "inventory"
-      ],
-      "platform": "Windows"
-    },
-    {
-      "licenseType": "Premium",
-      "user": "w",
-      "machines": [
-        "ww"
-      ],
-      "expiryDate": "2025-08-09",
-      "features": [
-        "finance",
-        "inventory"
-      ],
-      "platform": "Windows"
-    }
-  ],
-  "signature": "8ef747b4ed9d8864fce406ab866ca5b96c2c5bc26c1ca4e4d9f5612461a608b8afc82ffb85088f7f1b6781c7180b68c1bd3d0edb0dba381f1303f858cd8f10c8c643430bdaefdeb6ec8d00ffd90bf4b332096e00cf1e2ed9299937ad0cb4cca41298e52ed68554c7beced933bb2a8e8ded750779b277a7ae2f32dff731d988ced15d09892fec8ec957dc0c38b66957d55e9df8a85e28e997243d824bda11ecae53653c8b4ca13502fea39ce73346a6c89e1199e26eea1615ea3e075876b85d5e53e247d96d68d066769dee03bef4c89753c7981b90353928ed50856b547a3f7ce7ca457383e6c827f9d570749d0c9ed863b42890e888877bb67437c5ba963809"
+   
+  ]
 }
