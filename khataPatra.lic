@@ -15,8 +15,22 @@
         "platform": "Windows"
       },
       "signature": "Q9jQM90VwBYfPkQ4vz2/ZgvGVgknQZHnoVHQtv3rtd77qLEElgb6QQ9lUfDwgTnrgtbkhQLjEG7UBslhOWD7XSlOCy6WRSTovn0HQGf9n2NwpacIvPhZ6kuFXXgT7erSEST/gavKYURFau1V9Nu5GfH74q0V91nukB71TefNzoB4woavH9UQ53ha6QkzqfOdtUVrmdxstpifepfCcyJfh/rm/wGhxxKfB7ibmtUZO4ez9yvuFHx/smN88S/giTbBaFfHhvhZtOlmP85rhu6+klKwrU6W38eTImh+IIdnhTIft8gXEbyZ0O+E3AwuUy2I+pWdXmbDDrbGZMsZQZeQfw=="
+    },
+    {
+      "payload": {
+        "licenseType": "Premium",
+        "user": "abhinash@gmail.com",
+        "machines": [
+          "1234"
+        ],
+        "expiryDate": "2025-08-12",
+        "features": [
+          "finance",
+          "invenotry"
+        ],
+        "platform": "Windows"
+      },
+      "signature": "MXGt5nK0J1Hbwd+2WD4ePFF3EUe7Ch6KNyv9ik0+nZ4KLuK1BJ+8oKmH2E5KtmQUZwPVy95/DaXnQ5wVJ60eetK9ucugmGL7jxMLaV5+LACNHdSz6hSHtLEYfWDcqG+GHbC4OwEDEpuzOs17O24hEaPtXCS02T5ZXV9kDZt+mXNHxeuBdPZ0/Z7PWpRpZZ5S6zIoMcj/2Ck9X6EB729KQA1G021Bk4eNeWcgPrg0I3zVYkek8yJ5j8iPIGtZXrFVqW85J54/gYOwN0PGF4wb5LC3L4RMGf+GMQZ1fw0ajSh5vb5RJl4sOF+T6a8XoAWKmR3nypMgkFA4Wu3ZSNbSLg=="
     }
-   
   ]
 }
-
