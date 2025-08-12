@@ -7,14 +7,14 @@
         "machines": [
           "5daa7265-a3d9-4e99-b27b-527e8cce684a"
         ],
-        "expiryDate": "2025-08-09",
+        "expiryDate": "2025-08-13",
         "features": [
-          "finance",
-          "invenotry"
+          "invenotry",
+          "finance"
         ],
         "platform": "Windows"
       },
-      "signature": "Q9jQM90VwBYfPkQ4vz2/ZgvGVgknQZHnoVHQtv3rtd77qLEElgb6QQ9lUfDwgTnrgtbkhQLjEG7UBslhOWD7XSlOCy6WRSTovn0HQGf9n2NwpacIvPhZ6kuFXXgT7erSEST/gavKYURFau1V9Nu5GfH74q0V91nukB71TefNzoB4woavH9UQ53ha6QkzqfOdtUVrmdxstpifepfCcyJfh/rm/wGhxxKfB7ibmtUZO4ez9yvuFHx/smN88S/giTbBaFfHhvhZtOlmP85rhu6+klKwrU6W38eTImh+IIdnhTIft8gXEbyZ0O+E3AwuUy2I+pWdXmbDDrbGZMsZQZeQfw=="
+      "signature": "ZUIfMdj1/Nm3kIq6eQIigvF3K5ZdicEMitiiQKWrYxQ9ARFHuIlOBgmmEWlbSab6+NToTcjU4cj72xGnXDMjmrY89gKFsM+euBnUldOmyu+2dL9FNAvjgaafbTJnIDpXRxXMQXER69VMfHtjz9fL0drrmYGPm5SPD+VN4zwD/q67QNNW9jHk8tJxRSv6fsM/V5DBfaHAOAgDklAfOGJ3GuYLCzm9PjwJiGdM4XiKfQ/LmL62pyzHum40V9Xt+nrG3dwWA+opPFfRZdSFX3ZAwOHeuAzAta89ndeSYJ9mRz834jP+37Eu6SS1phko4WqZqjKPxBOMVi7GgMvXtlp0Mw=="
     },
     {
       "payload": {
