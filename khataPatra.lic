@@ -47,6 +47,22 @@
         "platform": "Windows"
       },
       "signature": "0+v8eNbepmd/6/Oic35AAXKKpKbH/8P6B6hppVgvOkEA1ln0Bvx99B0fKniuiOP3CVV8G5oJr3CYYdtnDXEuuJq8rCjk0EJKLJhnuBi2ekOIzDYEFufqyMCQ2CVp5Ce08UKhxDD6h4Ly0xHT6kl1rYtFjo5Yne8yo29Mz4aTSk4xX1vug6N8kR6J3NtnV21bk0JToCBLCudiEMisxuiwY9nLENUGRYhhrs6QzQPXvu/XHO1zUD5BJ04iVaLgyej+GclB3a4RW3DE2dbGeWu/77u0DEYOZPcZYbXi1fgS49DD2QLRdEeemDoFPYZ6OospG5H3m18steJtV4sptP0SbA=="
+    },
+    {
+      "payload": {
+        "licenseType": "Premium",
+        "user": "himal@gmail.com",
+        "machines": [
+          "1582da5a-0780-4807-b87a-a628d1d9c809"
+        ],
+        "expiryDate": "2025-08-20",
+        "features": [
+          "finance",
+          "invenotry"
+        ],
+        "platform": "Windows"
+      },
+      "signature": "wtS6Taj8XMP7QmBkOhkonYP5XCohk/8iuJEn3PgXtTop5xoI/fd3oesk1tZYanIjyj75FO51PI0dpQicQl8uETA4nqQMD4YQKcUMIxMqXRhZHEJbSlef/IT/rznO7GNOqWynjjY2g6UhLoQLAAcG8dAKJvc5vI2BPzmPj+9nBiuLqdgF/x3raXgiGn0fr3PnjoNxz+cLLGYfohWfU8UExzJsjQDLNsbdEJrBgqhspq0l/eP1d6lGPEVET+q939J5t8aWFOAguVPggbPy0sYsRAUjaVvw3flBpsL4D23waz8BPbKTxERGAn9+YyzHRl1f+iT6nuUGgfPlkhFHxDCQWQ=="
     }
   ]
 }
